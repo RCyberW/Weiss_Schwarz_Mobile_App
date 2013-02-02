@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Tutorial</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="name">name</string>
+    <string name="level">level</string>
+    <string name="cost">cost</string>
+    <string name="color">color</string>
+    <string name="power">power</string>
+    <string name="soul">soul</string>
+    <string name="trigger">trigger</string>
+    <string name="trait">trait</string>
+    <string name="classification">classification</string>
+    <string name="ability">ability</string>
+    <string name="search">search</string>
+    <string name="clear">clear</string>
+
+    <string-array name="color_array">
+        <item>COLOR</item>
+        <item>RED</item>
+        <item>BLUE</item>
+        <item>GREEN</item>
+        <item>YELLOW</item>
+    </string-array>
+    <string-array name="level_array">
+        <item>LVL</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+    <string-array name="soul_array">
+        <item>SOUL</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+    <string-array name="trigger_array">
+        <item>TRIGGER</item>
+        <item>NONE</item>
+        <item>SOUL</item>
+        <item>2 SOUL</item>
+        <item>BURN</item>
+        <item>WIND</item>
+        <item>TREASURE</item>
+        <item>BAG</item>
+        <item>BOOK</item>
+    </string-array>
+    <string-array name="classification_array">
+        <item>CHARACTER</item>
+        <item>EVENT</item>
+        <item>CLIMAX</item>
+    </string-array>
+
+</resources>
